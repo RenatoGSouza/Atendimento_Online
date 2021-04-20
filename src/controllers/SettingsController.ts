@@ -1,4 +1,6 @@
 import { Request, Response } from "express";
+import { getCustomRepository } from "typeorm";
+import { settingsRepository } from "../repositories/settingsRepository"
 
 class SettingsController {
   async create(request: Request, response: Response) {
