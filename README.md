@@ -10,4 +10,4 @@ E ultilizei o metodo WebSocket para comunicação entre cliente e servidor.
 
 ##### Caso queira fazer um clone do repositorio, vai precisar baixar o pacotes para que ele rode corretamente
 
-[ ] TYPEORM
+- [ ] TYPEORM
