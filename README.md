@@ -2,6 +2,12 @@
 
 ###### O atendimento online é projeto da Rocketseat da semana NLW#05
 
-Nesse projeto aprendemos a trabalhar com banco de dados, o projeto ainda está em andamento,
+Nesse projeto aprendi como fazer uma boa estrutura de banco de dados 🏦
+Os conceitos sobre migrations, ultilizando o typeorm
+Separei toda a logica da nossa aplicaço em Services
+E ultilizei o metodo WebSocket para comunicação entre cliente e servidor.
 
-quando finalizar deixo uma descrição mais explicativa sobre o projeto.
+
+##### Caso queira fazer um clone do repositorio, vai precisar baixar o pacotes para que ele rode corretamente
+
+[ ] TYPEORM
