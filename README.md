@@ -8,6 +8,4 @@ Separei toda a logica da nossa aplicaço em Services
 E ultilizei o protocolo WebSocket para comunicação entre cliente e servidor.
 
 
-##### Caso queira fazer um clone do repositorio, vai precisar baixar o pacotes para que ele rode corretamente
-
-- [ ] TYPEORM
+##### Para rodar o projeto basta da um `npm install` e acessar a página `localhost:3000/`
